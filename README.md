@@ -66,7 +66,9 @@ I have created the following dashboard for the Clinical Operations Manager to mo
 Priority: Highest
 
 As the largest determining factor of No-Show rate, the Lead Time (time between the day the appointment was scheduled and the actual appointment date) gives us our clearest picture of a massive 18% increase in rates  between same day appointments and a 1 to 3 day Lead Time range.
+
 <img width="733" height="1121" alt="image" src="https://github.com/user-attachments/assets/0672f467-d5a2-4cae-a6d7-2ef23b1c7eb4" />
+
 ### Why this matters operationally
 
 - Longer intervals between booking and appointment dates may create more opportunities for patients' schedules, transportation arrangements, or other circumstances to change.
