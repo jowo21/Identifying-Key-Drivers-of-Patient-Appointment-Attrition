@@ -34,6 +34,7 @@ The Clinic Operations Manager of a group of local clinics has requested to analy
 <br>
 <br>
 <br>
+
 ## Executive Summary
 
 This analysis covers over 110,000 individual patient appointment encounters to determine the major factors that contribute to high patient No-Show rates.
@@ -57,6 +58,7 @@ I have created the following dashboard for the Clinical Operations Manager to mo
 <br>
 <br>
 <br>
+
 ## Additional Insights
 
 ### Insight 1: Appointment lead time is a key opportunity for intervention
@@ -73,6 +75,7 @@ As the largest determining factor of No-Show rate, the Lead Time (time between t
 - Scheduling teams may be able to reduce avoidable missed appointments by improving how they manage appointments as the appointment date approaches.
 <br>
 <br>
+
 ### Insight 2: SMS reminders require a deeper effectiveness analysis
 
 Priority: High
@@ -91,6 +94,7 @@ One possible explanation is that reminders are preferentially sent to patients o
 There is also an important distinction between a reminder being sent, successfully delivered, and actually read by a patient.
 <br>
 <br>
+
 ### Insight 3: Neighborhood differences may reveal access barriers
 
 Priority: High — investigate locally
@@ -123,6 +127,7 @@ However, neighborhood should be treated as a signal for further investigation, n
 
 <br>
 <br>
+
 ### Insight 4: Day of week has limited overall variation
 
 Priority: Moderate
@@ -136,6 +141,7 @@ The proposal to move higher-risk appointments away from weekends should therefor
 <img width="633" height="281" alt="image" src="https://github.com/user-attachments/assets/a16ef76e-698f-40fc-8693-153c87d29379" />
 <br>
 <br>
+
 ### Insight 5: Clinical and demographic variables have limited standalone predictive value
 
 Priority: low to none
@@ -192,6 +198,7 @@ Disease States
 <br>
 <br>
 <br>
+
 ## Recommendations
 
 ### 1. Clinic Operations Manager
@@ -219,6 +226,7 @@ Recommended actions
 Intended outcome: Reduced avoidable missed appointments, improved provider capacity utilization, more consistent clinic performance, and better access to care.
 <br>
 <br>
+
 ### 2. Patient Scheduling Manager
 
 Use scheduling data to reduce avoidable appointment gaps, improve confirmation processes, and give patients greater flexibility in choosing appointment times.
@@ -250,6 +258,7 @@ Recommended actions
 Intended outcome: More reliable appointment attendance, fewer unfilled appointment slots, more efficient scheduling operations, and improved patient flexibility.
 <br>
 <br>
+
 ### 3. Patient Outreach / Care Coordination Team
 
 Use appointment information to identify patients who may benefit from additional support, while ensuring outreach is respectful, accessible, and responsive to individual needs.
@@ -291,6 +300,7 @@ To help these various stakeholders start the recommended improvement processes, 
 <br>
 <br>
 <br>
+
 ## Final Takeaway
 
 This analysis establishes a meaningful opportunity to improve appointment attendance and clinical capacity management. The most actionable starting point is to strengthen scheduling and confirmation workflows, investigate differences in appointment lead time, and develop a more evidence-based reminder strategy.
