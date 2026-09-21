@@ -1,6 +1,7 @@
 # Identifying-Key-Drivers-of-Patient-Appointment-Attrition
 <br>
 <br>
+
 ## Problem Statement
 
 Healthcare organizations lose valuable clinical capacity when patients fail to attend scheduled appointments without prior cancellation. High appointment no-show rates can lead to **unused provider time, longer patient wait times, reduced access to care, and inefficient resource utilization**.
