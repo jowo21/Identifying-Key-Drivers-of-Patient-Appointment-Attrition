@@ -207,7 +207,7 @@ Disease States
 
 Establish a framework that converts the analysis into measurable improvements in attendance, capacity utilization, and patient access.
 
-Recommended actions
+<u>Recommended actions</u>
 
 **A. Establish a no-show performance monitoring system**
 
@@ -225,7 +225,9 @@ Recommended actions
 - Coordinate scheduling, care coordination, clinic managers, and analytics teams.
 - Review progress monthly and adjust interventions based on measured outcomes.
 
-Intended outcome: Reduced avoidable missed appointments, improved provider capacity utilization, more consistent clinic performance, and better access to care.
+<u>Intended outcome</u>: 
+Reduced avoidable missed appointments, improved provider capacity utilization, more consistent clinic performance, and better access to care.
+
 <br>
 <br>
 
@@ -233,7 +235,7 @@ Intended outcome: Reduced avoidable missed appointments, improved provider capac
 
 Use scheduling data to reduce avoidable appointment gaps, improve confirmation processes, and give patients greater flexibility in choosing appointment times.
 
-Recommended actions
+<u>Recommended actions</u>
 
 **A. Introduce lead-time-based scheduling workflows**
 
@@ -257,7 +259,9 @@ Recommended actions
 - Evaluate whether particular appointment times or clinic schedules create avoidable attendance barriers.
 - Avoid moving patients to different days or locations without considering their preferences and access needs.
 
-Intended outcome: More reliable appointment attendance, fewer unfilled appointment slots, more efficient scheduling operations, and improved patient flexibility.
+<u>Intended outcome</u>: 
+More reliable appointment attendance, fewer unfilled appointment slots, more efficient scheduling operations, and improved patient flexibility.
+
 <br>
 <br>
 
@@ -265,7 +269,7 @@ Intended outcome: More reliable appointment attendance, fewer unfilled appointme
 
 Use appointment information to identify patients who may benefit from additional support, while ensuring outreach is respectful, accessible, and responsive to individual needs.
 
-Recommended actions
+<u>Recommended actions</u>
 
 **A. Develop proactive patient outreach workflows**
 
@@ -293,7 +297,8 @@ Recommended actions
 - Distinguish patient-initiated cancellations from unexplained missed appointments.
 - Share aggregated barrier information with scheduling and operations teams.
 
-Intended outcome: Improved patient engagement, fewer preventable missed appointments, better continuity of care, and more responsive support for patients facing barriers.
+<u>Intended outcome</u>: 
+Improved patient engagement, fewer preventable missed appointments, better continuity of care, and more responsive support for patients facing barriers.
 
 To help these various stakeholders start the recommended improvement processes, I created the following dashboard that allows them to track the various metrics that contribute to No-show rates and allows them to filter these findings by Patient’s Risk Tier.
 
