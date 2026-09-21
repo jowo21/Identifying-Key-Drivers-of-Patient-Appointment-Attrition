@@ -1,11 +1,15 @@
 # Identifying-Key-Drivers-of-Patient-Appointment-Attrition
-
+<br>
+<br>
 ## Problem Statement
 
 Healthcare organizations lose valuable clinical capacity when patients fail to attend scheduled appointments without prior cancellation. High appointment no-show rates can lead to **unused provider time, longer patient wait times, reduced access to care, and inefficient resource utilization**.
 
 The Clinic Operations Manager of a group of local clinics has requested to analyze historical patient appointment data to identify the **key factors associated with appointment no-shows** and determine which patient groups, neighborhoods, scheduling patterns, and communication methods have the highest risk of missing appointments.  The manager also wants to find key metrics and solutions for the Patient Scheduling Manager and the Patient Care Coordination Team to work towards a system wide approach.
-
+<br>
+<br>
+<br>
+<br>
 
 
 ## Project Objective and North Star Metrics
@@ -25,7 +29,10 @@ The Clinic Operations Manager of a group of local clinics has requested to analy
 6. Examine attendance patterns by day of week.
 7. Understand whether patient health and socioeconomic characteristics are associated with attendance.
 8. Provide recommendations for improving appointment scheduling and reminder strategies.
-
+<br>
+<br>
+<br>
+<br>
 ## Executive Summary
 
 This analysis covers over 110,000 individual patient appointment encounters to determine the major factors that contribute to high patient No-Show rates.
@@ -42,8 +49,13 @@ This analysis covers over 110,000 individual patient appointment encounters to d
 ### Initial Recommendation:
 
 I have created the following dashboard for the Clinical Operations Manager to monitor various high-risk patient criteria.  This will allow to filter the variables that contribute the most to missed appointments and allows for rescheduling and redirection of resources as appropriate:
-<img width="1402" height="862" alt="image" src="https://github.com/user-attachments/assets/2c512bb7-ccdc-40b1-a6eb-faba68f3659c" />
 
+
+<img width="1402" height="862" alt="image" src="https://github.com/user-attachments/assets/2c512bb7-ccdc-40b1-a6eb-faba68f3659c" />
+<br>
+<br>
+<br>
+<br>
 ## Additional Insights
 
 ### Insight 1: Appointment lead time is a key opportunity for intervention
@@ -58,7 +70,8 @@ As the largest determining factor of No-Show rate, the Lead Time (time between t
 - Appointments booked further in advance may benefit from earlier confirmation and additional opportunities to reschedule.
 - Short-notice appointments may have different attendance patterns and should be evaluated separately from appointments booked in advance.
 - Scheduling teams may be able to reduce avoidable missed appointments by improving how they manage appointments as the appointment date approaches.
-
+<br>
+<br>
 ### Insight 2: SMS reminders require a deeper effectiveness analysis
 
 Priority: High
@@ -75,7 +88,8 @@ This is an important finding, but it does not establish that SMS reminders incre
 One possible explanation is that reminders are preferentially sent to patients or appointments already considered higher risk. Other possibilities include differences in lead time, appointment type, patient contact information, or the timing and delivery of messages.
 
 There is also an important distinction between a reminder being sent, successfully delivered, and actually read by a patient.
-
+<br>
+<br>
 ### Insight 3: Neighborhood differences may reveal access barriers
 
 Priority: High — investigate locally
@@ -106,7 +120,8 @@ Neighborhood patterns can help the clinic identify locations where patients may 
 
 However, neighborhood should be treated as a signal for further investigation, not as a direct explanation for why a patient misses an appointment. A clinic location's no-show rate may also reflect its appointment mix, patient population, provider availability, or scheduling processes.
 
-
+<br>
+<br>
 ### Insight 4: Day of week has limited overall variation
 
 Priority: Moderate
@@ -116,9 +131,11 @@ The analysis reports relatively little variation in no-show rates across appoint
 This suggests that day of week may be useful as a secondary scheduling variable, but it is unlikely to be the primary lever for reducing missed appointments across the entire clinic.
 
 The proposal to move higher-risk appointments away from weekends should therefore be treated as a hypothesis to test, rather than an established intervention.
-<img width="633" height="281" alt="image" src="https://github.com/user-attachments/assets/a16ef76e-698f-40fc-8693-153c87d29379" />
 
-### Insight 4: Clinical and demographic variables have limited standalone predictive value
+<img width="633" height="281" alt="image" src="https://github.com/user-attachments/assets/a16ef76e-698f-40fc-8693-153c87d29379" />
+<br>
+<br>
+### Insight 5: Clinical and demographic variables have limited standalone predictive value
 
 Priority: low to none
 
@@ -170,7 +187,10 @@ Disease States
 | No | 107167 | 20.2% |
 | Yes | 3360 | 20.2% |
 
-
+<br>
+<br>
+<br>
+<br>
 ## Recommendations
 
 ### 1. Clinic Operations Manager
@@ -196,7 +216,8 @@ Recommended actions
 - Review progress monthly and adjust interventions based on measured outcomes.
 
 Intended outcome: Reduced avoidable missed appointments, improved provider capacity utilization, more consistent clinic performance, and better access to care.
-
+<br>
+<br>
 ### 2. Patient Scheduling Manager
 
 Use scheduling data to reduce avoidable appointment gaps, improve confirmation processes, and give patients greater flexibility in choosing appointment times.
@@ -226,7 +247,8 @@ Recommended actions
 - Avoid moving patients to different days or locations without considering their preferences and access needs.
 
 Intended outcome: More reliable appointment attendance, fewer unfilled appointment slots, more efficient scheduling operations, and improved patient flexibility.
-
+<br>
+<br>
 ### 3. Patient Outreach / Care Coordination Team
 
 Use appointment information to identify patients who may benefit from additional support, while ensuring outreach is respectful, accessible, and responsive to individual needs.
@@ -264,7 +286,10 @@ Intended outcome: Improved patient engagement, fewer preventable missed appointm
 To help these various stakeholders start the recommended improvement processes, I created the following dashboard that allows them to track the various metrics that contribute to No-show rates and allows them to filter these findings by Patient’s Risk Tier.
 
 <img width="1402" height="862" alt="image" src="https://github.com/user-attachments/assets/d8f99b3f-e171-4866-adc3-79db06a2cf04" />
-
+<br>
+<br>
+<br>
+<br>
 ## Final Takeaway
 
 This analysis establishes a meaningful opportunity to improve appointment attendance and clinical capacity management. The most actionable starting point is to strengthen scheduling and confirmation workflows, investigate differences in appointment lead time, and develop a more evidence-based reminder strategy.
