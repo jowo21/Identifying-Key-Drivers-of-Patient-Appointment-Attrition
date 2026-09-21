@@ -279,4 +279,4 @@ The ultimate measure of success is not merely a lower no-show rate. It is a heal
 
 Original Source of the dataset can be found [here](https://www.kaggle.com/datasets/joniarroba/noshowappointments/data)
 
-Data Cleaning Steps and Complete Exploratory Data Analysis can be found here
+Data Cleaning Steps and Complete Exploratory Data Analysis can be found [here](https://github.com/jowo21/Identifying-Key-Drivers-of-Patient-Appointment-Attrition/blob/main/Medical%20appointments%20EDA.ipynb)
