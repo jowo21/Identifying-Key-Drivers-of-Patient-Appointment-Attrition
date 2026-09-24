@@ -42,7 +42,7 @@ This analysis covers over 110,000 individual patient appointment encounters to d
 ### **Key Contributing factors**
 
 - The base No-Show rate is 20.2% which is mostly determined by the Lead Time between the patient’s scheduling of their appointment and the actual appointment day.  This can be used to establish a measurable starting point for future operational improvement initiatives.
-- No-show rates vary by neighborhood and shows as a useful operational indicator, with the highest reported rate at Santos Dumont (28.9%). Location-level patterns may help identify where access barriers, scheduling practices, or transportation challenges warrant further investigation.
+- No-show rates vary by neighborhood and presents as a useful operational indicator, with the highest reported rate at Santos Dumont (28.9%). Location-level patterns may help identify where access barriers, scheduling practices, or transportation challenges warrant further investigation.
 - Appointments recorded as receiving an SMS reminder had a 27.6% no-show rate, compared with 16.7% among appointments without a recorded SMS reminder. This unexpected direction means reminder effectiveness cannot be established from the current comparison alone.
 - However, various demographic metrics had little to no impact on No-Show rates.  Demographics such as: Age, Sex, various diagnoses, and number of disabilities a patient has.  These findings support targeted investigation rather than broad demographic assumptions.
 
